@@ -1,0 +1,1918 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Musthafa</Author>
+  <LastAuthor>Toshiba</LastAuthor>
+  <Created>2019-05-14T07:57:57Z</Created>
+  <LastSaved>2024-01-15T18:54:13Z</LastSaved>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>5580</WindowHeight>
+  <WindowWidth>14730</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s57" ss:Name="Hyperlink">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#0066CC"
+    ss:Underline="Single"/>
+  </Style>
+  <Style ss:ID="s58">
+   <Interior/>
+  </Style>
+  <Style ss:ID="s59">
+   <Interior/>
+   <NumberFormat ss:Format="@"/>
+  </Style>
+  <Style ss:ID="s60">
+   <Interior/>
+   <NumberFormat ss:Format="Fixed"/>
+  </Style>
+  <Style ss:ID="s61">
+   <Interior/>
+   <NumberFormat ss:Format="0"/>
+  </Style>
+  <Style ss:ID="s62">
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s63">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#FF0000"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s64">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#FF0000"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="@"/>
+  </Style>
+  <Style ss:ID="s65">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#FF0000"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s66">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s67">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s68">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s69">
+   <NumberFormat ss:Format="@"/>
+  </Style>
+  <Style ss:ID="s70">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11"/>
+   <Interior/>
+   <NumberFormat ss:Format="@"/>
+  </Style>
+  <Style ss:ID="s71">
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12"
+    ss:Color="#333333"/>
+  </Style>
+  <Style ss:ID="s73">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#333333"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s74">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11"/>
+  </Style>
+  <Style ss:ID="s75">
+   <Font ss:FontName="Segoe UI" x:Family="Swiss" ss:Size="8" ss:Color="#333333"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s76" ss:Parent="s57">
+   <Interior/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Leasing Import Sheet">
+  <Names>
+   <NamedRange ss:Name="_FilterDatabase"
+    ss:RefersTo="='Leasing Import Sheet'!R1C1:R9C53" ss:Hidden="1"/>
+  </Names>
+  <Table ss:ExpandedColumnCount="54" ss:ExpandedRowCount="20" x:FullColumns="1"
+   x:FullRows="1" ss:StyleID="s58" ss:DefaultRowHeight="15">
+   <Column ss:StyleID="s59" ss:AutoFitWidth="0" ss:Width="155.25"/>
+   <Column ss:StyleID="s59" ss:AutoFitWidth="0" ss:Width="104.25"/>
+   <Column ss:StyleID="s59" ss:Width="93.75"/>
+   <Column ss:StyleID="s59" ss:Width="87"/>
+   <Column ss:StyleID="s59" ss:Width="117"/>
+   <Column ss:StyleID="s59" ss:Width="89.25"/>
+   <Column ss:StyleID="s59" ss:Width="113.25"/>
+   <Column ss:StyleID="s59" ss:Width="121.5"/>
+   <Column ss:StyleID="s59" ss:Width="82.5"/>
+   <Column ss:StyleID="s59" ss:Width="110.25"/>
+   <Column ss:StyleID="s59" ss:Width="128.25"/>
+   <Column ss:StyleID="s59" ss:Width="83.25"/>
+   <Column ss:StyleID="s59" ss:Width="124.5"/>
+   <Column ss:StyleID="s59" ss:Width="160.5"/>
+   <Column ss:StyleID="s59" ss:Width="100.5"/>
+   <Column ss:StyleID="s59" ss:Width="154.5"/>
+   <Column ss:StyleID="s59" ss:Width="150"/>
+   <Column ss:StyleID="s59" ss:AutoFitWidth="0" ss:Width="146.25"/>
+   <Column ss:StyleID="s59" ss:Width="106.5"/>
+   <Column ss:StyleID="s59" ss:AutoFitWidth="0" ss:Width="118.5"/>
+   <Column ss:StyleID="s59" ss:Width="63"/>
+   <Column ss:StyleID="s59" ss:Width="65.25"/>
+   <Column ss:StyleID="s59" ss:Width="58.5"/>
+   <Column ss:StyleID="s59" ss:Width="85.5"/>
+   <Column ss:StyleID="s59" ss:Width="40.5"/>
+   <Column ss:StyleID="s60" ss:Width="63"/>
+   <Column ss:StyleID="s60" ss:Width="157.5"/>
+   <Column ss:StyleID="s60" ss:Width="151.5"/>
+   <Column ss:StyleID="s59" ss:Width="40.5"/>
+   <Column ss:StyleID="s61" ss:Width="102"/>
+   <Column ss:StyleID="s61" ss:Width="66"/>
+   <Column ss:StyleID="s61" ss:Width="62.25"/>
+   <Column ss:StyleID="s60" ss:Width="80.25"/>
+   <Column ss:StyleID="s60" ss:Width="76.5"/>
+   <Column ss:StyleID="s60" ss:Width="74.25"/>
+   <Column ss:StyleID="s59" ss:Width="91.5"/>
+   <Column ss:StyleID="s59" ss:Width="68.25"/>
+   <Column ss:StyleID="s61" ss:Width="99.75"/>
+   <Column ss:StyleID="s60" ss:Width="72"/>
+   <Column ss:StyleID="s58" ss:Width="76.5"/>
+   <Column ss:StyleID="s59" ss:Width="106.5"/>
+   <Column ss:StyleID="s60" ss:Width="98.25"/>
+   <Column ss:StyleID="s60" ss:Width="61.5"/>
+   <Column ss:StyleID="s58" ss:Width="102"/>
+   <Column ss:StyleID="s58" ss:Width="60"/>
+   <Column ss:StyleID="s60" ss:Width="164.25"/>
+   <Column ss:StyleID="s60" ss:Width="135"/>
+   <Column ss:StyleID="s60" ss:Width="78.75"/>
+   <Column ss:StyleID="s60" ss:Width="108"/>
+   <Column ss:StyleID="s58" ss:Width="118.5"/>
+   <Column ss:StyleID="s58" ss:Width="87"/>
+   <Column ss:StyleID="s58" ss:Width="42"/>
+   <Column ss:StyleID="s58" ss:Width="79.5"/>
+   <Column ss:StyleID="s58" ss:AutoFitWidth="0" ss:Width="158.25"/>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s62">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Project</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Property</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Property Number</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Properties.Type</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Properties.Legal Entity</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Properties.UOM</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Properties.Stage</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Properties.Plot Number</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Properties.City</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Properties.Land Area</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Properties.Leasable Area</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Properties.GFA</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Properties.Built Up Area</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Properties.Admin Fee Applicable</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Properties.Country</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Properties.Property Ownership</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Properties.Administration Fee</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Unit No</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Unit For</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Legal Entity</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Type</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Use Permit</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Tax Code</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Tax Percentage</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">UOM</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Total Area</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Country Belongs To</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Rent Per Annum Excluding Tax</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Floor</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Balconies/Terraces</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Bathrooms</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Bedrooms</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Common Area</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">External Area</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Internal Area</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Furnishing Status</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Maid Room</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Number of Parking</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Parking Area</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Parking Type</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Parking Bay Number</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Electricity Charges</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">ERES Fees</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Unit delivery status</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Tax Value</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Common Area charge per Annum</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Cooling Charge Per Annum</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Leasable Area</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Maintenance charge</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">First supply completed </Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">View</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">State</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Status Reason</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Floor Plan</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">selenium test1</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">selenium test1</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">s - 27</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Residentials</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Property-xRM</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">SQ.Mtr</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Under Planning</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">18747</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">200</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">128</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">200</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">2000</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">No</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">United Arab Emirates</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Fully Owned</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">500</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">SE-UNT 711</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Leasing</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Property-xRM</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Parking</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Parking</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Zero Rated</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">5</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Sq.Mtr</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="Number">2000</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Property-xRM_Residential Leasing</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="Number">200000</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">2</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="Number">4</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">3</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">123.39777330301597</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="Number">2000</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="Number">500</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Furnished</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Yes</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="Number">3</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:Index="40" ss:StyleID="s74"><Data ss:Type="String">Open Parking</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">2</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">2</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:Index="44" ss:StyleID="s74"><Data ss:Type="String">Under Construction</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">0</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">11.464039363336335</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">11.464039363336335</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">11.464039363336335</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="Number">20.5</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:Index="51" ss:StyleID="s71"><Data ss:Type="String">Pool</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Active</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Available</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">http://galaxy80-vm1:5555/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">selenium test1</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">selenium test1</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">s- 27</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Offices</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Property-xRM</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">SQ.Mtr</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Under Construction</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">18748</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">201</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">128</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">201</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">2000</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">No</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">United Arab Emirates</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Customer</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">500</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">SE-UNT 712</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Leasing</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Property-xRM</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Parking</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Parking</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Zero Rated</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">5</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Sq.Ft</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="Number">2000</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Property-xRM_Residential Leasing</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="Number">200000</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">3</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="Number">4</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">3</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">115.07986653546189</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="Number">2000</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="Number">500</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Unfurnished</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">No</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="Number">3</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:Index="40" ss:StyleID="s74"><Data ss:Type="String">Covered Parking</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">2</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">2</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:Index="44" ss:StyleID="s74"><Data ss:Type="String">Under Construction</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">0</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">10.691279790360547</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">10.691279790360547</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">10.691279790360547</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="Number">20.5</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:Index="51" ss:StyleID="s71"><Data ss:Type="String">Garden View</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Active</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Available</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">http://galaxy80-vm1:5555/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">selenium test1</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">selenium test1</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">s - 27</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Hotel Apartments</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Property-xRM</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">SQ.Mtr</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Under Planning</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">18749</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">202</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">128</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">202</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">2000</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Yes</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">United Arab Emirates</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Investor</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">500</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">SE-UNT 713</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Leasing</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Property-xRM</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Parking</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Parking</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Zero Rated</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">5</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Sq.Mtr</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="Number">2000</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Property-xRM_Residential Leasing</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="Number">200000</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">4</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="Number">4</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">3</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">128.43963299172893</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="Number">2000</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="Number">500</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Unfurnished</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Yes</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="Number">3</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:Index="40" ss:StyleID="s74"><Data ss:Type="String">Basement</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">2</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">2</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">2</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String">Completed</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">0</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">11.93244390896691</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">11.93244390896691</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">11.93244390896691</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="Number">20.5</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:Index="51" ss:StyleID="s71"><Data ss:Type="String">Neighbour View</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Active</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Available</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">http://galaxy80-vm1:5555/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">selenium test1</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">selenium test1</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">s - 27</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Offices</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Property-xRM</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Sq.ft</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Construction Completed</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">18750</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">203</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">128</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">203</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">2000</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Yes</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">United Arab Emirates</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Fully Owned</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">500</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">SE-UNT 714</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Leasing</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Property-xRM</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Parking</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Parking</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Zero Rated</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">5</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Sq.Ft</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="Number">2000</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Property-xRM_Residential Leasing</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="Number">200000</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">5</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="Number">4</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">3</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">115.07986653546189</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="Number">2000</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="Number">500</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Furnished</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">No</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="Number">3</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:Index="40" ss:StyleID="s74"><Data ss:Type="String">Valet</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">2</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">2</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:Index="44" ss:StyleID="s74"><Data ss:Type="String">Under Construction</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">0</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">10.691279790360547</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">10.691279790360547</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">10.691279790360547</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="Number">20.5</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:Index="51" ss:StyleID="s71"><Data ss:Type="String">Road View</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Active</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Available</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">http://galaxy80-vm1:5555/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">selenium test1</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">selenium test1</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">s- 27</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Villa</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Property-xRM</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Sq.ft</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Under Planning</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">18751</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">203</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">128</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">203</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">2000</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Yes</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">United Arab Emirates</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Fully Owned</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">501</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">SE-UNT 715</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Leasing</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Property-xRM</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Parking</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Parking</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Zero Rated</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">5</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Sq.Ft</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="Number">2000</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Property-xRM_Residential Leasing</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="Number">200000</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">6</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="Number">4</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">3</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">114.28989773630872</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="Number">2000</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="Number">500</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Semi-Furnished</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">No</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="Number">3</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:Index="40" ss:StyleID="s74"><Data ss:Type="String">Valet</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">2</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">2</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:Index="44" ss:StyleID="s74"><Data ss:Type="String">Under Construction</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">0</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">10.617889216390781</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">10.617889216390781</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">10.617889216390781</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="Number">20.5</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:Index="51" ss:StyleID="s71"><Data ss:Type="String">Partial Sea View</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Active</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Available</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">http://galaxy80-vm1:5555/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">selenium test1</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">selenium test1</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">s - 27</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Warehouse</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Property-xRM</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Sq.ft</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Under Planning</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">18752</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">203</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">128</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">203</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">2000</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Yes</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">United Arab Emirates</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Fully Owned</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">502</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">SE-UNT 716</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Leasing</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Property-xRM</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Parking</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Parking</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Zero Rated</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">5</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Sq.Ft</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="Number">2000</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Property-xRM_Residential Leasing</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="Number">200000</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">7</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="Number">4</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">3</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">116.05571034618052</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="Number">2000</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="Number">500</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Furnished</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">No</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="Number">3</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:Index="40" ss:StyleID="s74"><Data ss:Type="String">Valet</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">2</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">2</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:Index="44" ss:StyleID="s74"><Data ss:Type="String">Completed</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">0</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">10.781938734676142</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">10.781938734676142</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">10.781938734676142</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="Number">20.5</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:Index="51" ss:StyleID="s71"><Data ss:Type="String">Lake</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Active</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Available</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">http://galaxy80-vm1:5555/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">selenium test1</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">selenium test1</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">s - 27</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Mix Use</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Property-xRM</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Sq.ft</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Under Planning</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">18753</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">203</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">128</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">203</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">2000</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Yes</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">United Arab Emirates</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Fully Owned</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">503</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">SE-UNT 717</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Leasing</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Property-xRM</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Parking</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Parking</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Zero Rated</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">5</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Sq.Ft</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="Number">2000</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Property-xRM_Residential Leasing</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="Number">200000</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">8</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="Number">4</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">3</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">117.84475733249802</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="Number">2000</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="Number">500</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Furnished</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">No</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="Number">3</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:Index="40" ss:StyleID="s74"><Data ss:Type="String">Valet</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">2</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">2</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:Index="44" ss:StyleID="s74"><Data ss:Type="String">Under Construction</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">0</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">10.948146799254733</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">10.948146799254733</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">10.948146799254733</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="Number">20.5</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:Index="51" ss:StyleID="s71"><Data ss:Type="String">Racing Track</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Active</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Available</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">http://galaxy80-vm1:5555/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">selenium test1</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">selenium test1</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">s- 27</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Medical</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Property-xRM</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Sq.ft</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Under Planning</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">18754</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">203</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">128</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">203</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">2000</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Yes</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">United Arab Emirates</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Fully Owned</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">504</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">SE-UNT 718</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Leasing</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Property-xRM</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Parking</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Parking</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Zero Rated</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">5</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Sq.Ft</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="Number">2000</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Property-xRM_Residential Leasing</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="Number">200000</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">9</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="Number">2</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="Number">4</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">3</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">205.02013775669607</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="Number">2000</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="Number">500</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Furnished</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">No</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="Number">3</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:Index="40" ss:StyleID="s74"><Data ss:Type="String">Valet</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s75"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s75"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:Index="44" ss:StyleID="s74"><Data ss:Type="String">Under Construction</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">0</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">19.047012491447902</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">19.047012491447902</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">19.047012491447902</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="Number">20.5</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:Index="51" ss:StyleID="s71"><Data ss:Type="String">Golf Course</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Active</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Available</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">http://galaxy80-vm1:5555/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">selenium test1</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">selenium test1</Data></Cell>
+    <Cell><Data ss:Type="String">s - 27</Data></Cell>
+    <Cell><Data ss:Type="String">Warehouse</Data></Cell>
+    <Cell><Data ss:Type="String">Property-xRM</Data></Cell>
+    <Cell><Data ss:Type="String">Sq.ft</Data></Cell>
+    <Cell><Data ss:Type="String">Under Planning</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">18755</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">203</Data></Cell>
+    <Cell><Data ss:Type="String">128</Data></Cell>
+    <Cell><Data ss:Type="String">203</Data></Cell>
+    <Cell><Data ss:Type="String">2000</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell><Data ss:Type="String">United Arab Emirates</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Fully Owned</Data></Cell>
+    <Cell><Data ss:Type="String">505</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">SE-UNT 719</Data></Cell>
+    <Cell><Data ss:Type="String">Leasing</Data></Cell>
+    <Cell><Data ss:Type="String">Property-xRM</Data></Cell>
+    <Cell><Data ss:Type="String">Parking</Data></Cell>
+    <Cell><Data ss:Type="String">Parking</Data></Cell>
+    <Cell><Data ss:Type="String">Zero Rated</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">5</Data></Cell>
+    <Cell><Data ss:Type="String">Sq.Ft</Data></Cell>
+    <Cell><Data ss:Type="Number">2000</Data></Cell>
+    <Cell><Data ss:Type="String">Property-xRM_Residential Leasing</Data></Cell>
+    <Cell><Data ss:Type="Number">200000</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">10</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">235.27129588897299</Data></Cell>
+    <Cell><Data ss:Type="Number">2000</Data></Cell>
+    <Cell><Data ss:Type="Number">500</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Furnished</Data></Cell>
+    <Cell><Data ss:Type="String">No</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:Index="40" ss:StyleID="s74"><Data ss:Type="String">Valet</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:Index="44" ss:StyleID="s74"><Data ss:Type="String">Completed</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">21.857439765231302</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">21.857439765231302</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">21.857439765231302</Data></Cell>
+    <Cell><Data ss:Type="Number">20.5</Data></Cell>
+    <Cell ss:Index="51" ss:StyleID="s71"><Data ss:Type="String">Lake</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Active</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Available</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">http://galaxy80-vm1:5555/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">selenium test1</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">selenium test1</Data></Cell>
+    <Cell><Data ss:Type="String">s - 27</Data></Cell>
+    <Cell><Data ss:Type="String">Mix Use</Data></Cell>
+    <Cell><Data ss:Type="String">Property-xRM</Data></Cell>
+    <Cell><Data ss:Type="String">Sq.ft</Data></Cell>
+    <Cell><Data ss:Type="String">Under Planning</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">18756</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">203</Data></Cell>
+    <Cell><Data ss:Type="String">128</Data></Cell>
+    <Cell><Data ss:Type="String">203</Data></Cell>
+    <Cell><Data ss:Type="String">2000</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell><Data ss:Type="String">United Arab Emirates</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Fully Owned</Data></Cell>
+    <Cell><Data ss:Type="String">506</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">SE-UNT 720</Data></Cell>
+    <Cell><Data ss:Type="String">Leasing</Data></Cell>
+    <Cell><Data ss:Type="String">Property-xRM</Data></Cell>
+    <Cell><Data ss:Type="String">Parking</Data></Cell>
+    <Cell><Data ss:Type="String">Parking</Data></Cell>
+    <Cell><Data ss:Type="String">Zero Rated</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">5</Data></Cell>
+    <Cell><Data ss:Type="String">Sq.Ft</Data></Cell>
+    <Cell><Data ss:Type="Number">2000</Data></Cell>
+    <Cell><Data ss:Type="String">Property-xRM_Residential Leasing</Data></Cell>
+    <Cell><Data ss:Type="Number">200000</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">11</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">279.75350959423099</Data></Cell>
+    <Cell><Data ss:Type="Number">2000</Data></Cell>
+    <Cell><Data ss:Type="Number">500</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Furnished</Data></Cell>
+    <Cell><Data ss:Type="String">No</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:Index="40" ss:StyleID="s74"><Data ss:Type="String">Valet</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:Index="44" ss:StyleID="s74"><Data ss:Type="String">Under Construction</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">25.989976643617201</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">25.989976643617201</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">25.989976643617201</Data></Cell>
+    <Cell><Data ss:Type="Number">20.5</Data></Cell>
+    <Cell ss:Index="51" ss:StyleID="s71"><Data ss:Type="String">Racing Track</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Active</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Available</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">http://galaxy80-vm1:5555/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">selenium test1</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">selenium test1</Data></Cell>
+    <Cell><Data ss:Type="String">s- 27</Data></Cell>
+    <Cell><Data ss:Type="String">Medical</Data></Cell>
+    <Cell><Data ss:Type="String">Property-xRM</Data></Cell>
+    <Cell><Data ss:Type="String">Sq.ft</Data></Cell>
+    <Cell><Data ss:Type="String">Under Planning</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">18757</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">203</Data></Cell>
+    <Cell><Data ss:Type="String">128</Data></Cell>
+    <Cell><Data ss:Type="String">203</Data></Cell>
+    <Cell><Data ss:Type="String">2000</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell><Data ss:Type="String">United Arab Emirates</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Fully Owned</Data></Cell>
+    <Cell><Data ss:Type="String">507</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">SE-UNT 721</Data></Cell>
+    <Cell><Data ss:Type="String">Leasing</Data></Cell>
+    <Cell><Data ss:Type="String">Property-xRM</Data></Cell>
+    <Cell><Data ss:Type="String">Parking</Data></Cell>
+    <Cell><Data ss:Type="String">Parking</Data></Cell>
+    <Cell><Data ss:Type="String">Zero Rated</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">5</Data></Cell>
+    <Cell><Data ss:Type="String">Sq.Ft</Data></Cell>
+    <Cell><Data ss:Type="Number">2000</Data></Cell>
+    <Cell><Data ss:Type="String">Property-xRM_Residential Leasing</Data></Cell>
+    <Cell><Data ss:Type="Number">200000</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">12</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">324.235723299489</Data></Cell>
+    <Cell><Data ss:Type="Number">2000</Data></Cell>
+    <Cell><Data ss:Type="Number">500</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Furnished</Data></Cell>
+    <Cell><Data ss:Type="String">No</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:Index="40" ss:StyleID="s74"><Data ss:Type="String">Valet</Data></Cell>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:Index="44" ss:StyleID="s74"><Data ss:Type="String">Under Construction</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">30.1225135220031</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">30.1225135220031</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">30.1225135220031</Data></Cell>
+    <Cell><Data ss:Type="Number">20.5</Data></Cell>
+    <Cell ss:Index="51" ss:StyleID="s71"><Data ss:Type="String">Golf Course</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Active</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Available</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">http://galaxy80-vm1:5555/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">selenium test1</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">selenium test1</Data></Cell>
+    <Cell><Data ss:Type="String">s - 27</Data></Cell>
+    <Cell><Data ss:Type="String">Warehouse</Data></Cell>
+    <Cell><Data ss:Type="String">Property-xRM</Data></Cell>
+    <Cell><Data ss:Type="String">Sq.ft</Data></Cell>
+    <Cell><Data ss:Type="String">Under Planning</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">18758</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">203</Data></Cell>
+    <Cell><Data ss:Type="String">128</Data></Cell>
+    <Cell><Data ss:Type="String">203</Data></Cell>
+    <Cell><Data ss:Type="String">2000</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell><Data ss:Type="String">United Arab Emirates</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Fully Owned</Data></Cell>
+    <Cell><Data ss:Type="String">508</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">SE-UNT 722</Data></Cell>
+    <Cell><Data ss:Type="String">Leasing</Data></Cell>
+    <Cell><Data ss:Type="String">Property-xRM</Data></Cell>
+    <Cell><Data ss:Type="String">Parking</Data></Cell>
+    <Cell><Data ss:Type="String">Parking</Data></Cell>
+    <Cell><Data ss:Type="String">Zero Rated</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">5</Data></Cell>
+    <Cell><Data ss:Type="String">Sq.Ft</Data></Cell>
+    <Cell><Data ss:Type="Number">2000</Data></Cell>
+    <Cell><Data ss:Type="String">Property-xRM_Residential Leasing</Data></Cell>
+    <Cell><Data ss:Type="Number">200000</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">13</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">368.717937004747</Data></Cell>
+    <Cell><Data ss:Type="Number">2000</Data></Cell>
+    <Cell><Data ss:Type="Number">500</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Furnished</Data></Cell>
+    <Cell><Data ss:Type="String">No</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:Index="40" ss:StyleID="s74"><Data ss:Type="String">Valet</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:Index="44" ss:StyleID="s74"><Data ss:Type="String">Completed</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">34.255050400389003</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">34.255050400389003</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">34.255050400389003</Data></Cell>
+    <Cell><Data ss:Type="Number">20.5</Data></Cell>
+    <Cell ss:Index="51" ss:StyleID="s71"><Data ss:Type="String">Lake</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Active</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Available</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">http://galaxy80-vm1:5555/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">selenium test1</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">selenium test1</Data></Cell>
+    <Cell><Data ss:Type="String">s - 27</Data></Cell>
+    <Cell><Data ss:Type="String">Mix Use</Data></Cell>
+    <Cell><Data ss:Type="String">Property-xRM</Data></Cell>
+    <Cell><Data ss:Type="String">Sq.ft</Data></Cell>
+    <Cell><Data ss:Type="String">Under Planning</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">18759</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">203</Data></Cell>
+    <Cell><Data ss:Type="String">128</Data></Cell>
+    <Cell><Data ss:Type="String">203</Data></Cell>
+    <Cell><Data ss:Type="String">2000</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell><Data ss:Type="String">United Arab Emirates</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Fully Owned</Data></Cell>
+    <Cell><Data ss:Type="String">509</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">SE-UNT 723</Data></Cell>
+    <Cell><Data ss:Type="String">Leasing</Data></Cell>
+    <Cell><Data ss:Type="String">Property-xRM</Data></Cell>
+    <Cell><Data ss:Type="String">Parking</Data></Cell>
+    <Cell><Data ss:Type="String">Parking</Data></Cell>
+    <Cell><Data ss:Type="String">Zero Rated</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">5</Data></Cell>
+    <Cell><Data ss:Type="String">Sq.Ft</Data></Cell>
+    <Cell><Data ss:Type="Number">2000</Data></Cell>
+    <Cell><Data ss:Type="String">Property-xRM_Residential Leasing</Data></Cell>
+    <Cell><Data ss:Type="Number">200000</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">14</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">413.20015071000398</Data></Cell>
+    <Cell><Data ss:Type="Number">2000</Data></Cell>
+    <Cell><Data ss:Type="Number">500</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Furnished</Data></Cell>
+    <Cell><Data ss:Type="String">No</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:Index="40" ss:StyleID="s74"><Data ss:Type="String">Valet</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:Index="44" ss:StyleID="s74"><Data ss:Type="String">Under Construction</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">38.387587278774902</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">38.387587278774902</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">38.387587278774902</Data></Cell>
+    <Cell><Data ss:Type="Number">20.5</Data></Cell>
+    <Cell ss:Index="51" ss:StyleID="s71"><Data ss:Type="String">Racing Track</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Active</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Available</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">http://galaxy80-vm1:5555/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">selenium test1</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">selenium test1</Data></Cell>
+    <Cell><Data ss:Type="String">s- 27</Data></Cell>
+    <Cell><Data ss:Type="String">Medical</Data></Cell>
+    <Cell><Data ss:Type="String">Property-xRM</Data></Cell>
+    <Cell><Data ss:Type="String">Sq.ft</Data></Cell>
+    <Cell><Data ss:Type="String">Under Planning</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">18760</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">203</Data></Cell>
+    <Cell><Data ss:Type="String">128</Data></Cell>
+    <Cell><Data ss:Type="String">203</Data></Cell>
+    <Cell><Data ss:Type="String">2000</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell><Data ss:Type="String">United Arab Emirates</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Fully Owned</Data></Cell>
+    <Cell><Data ss:Type="String">510</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">SE-UNT 724</Data></Cell>
+    <Cell><Data ss:Type="String">Leasing</Data></Cell>
+    <Cell><Data ss:Type="String">Property-xRM</Data></Cell>
+    <Cell><Data ss:Type="String">Parking</Data></Cell>
+    <Cell><Data ss:Type="String">Parking</Data></Cell>
+    <Cell><Data ss:Type="String">Zero Rated</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">5</Data></Cell>
+    <Cell><Data ss:Type="String">Sq.Ft</Data></Cell>
+    <Cell><Data ss:Type="Number">2000</Data></Cell>
+    <Cell><Data ss:Type="String">Property-xRM_Residential Leasing</Data></Cell>
+    <Cell><Data ss:Type="Number">200000</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">15</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">457.68236441526199</Data></Cell>
+    <Cell><Data ss:Type="Number">2000</Data></Cell>
+    <Cell><Data ss:Type="Number">500</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Furnished</Data></Cell>
+    <Cell><Data ss:Type="String">No</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:Index="40" ss:StyleID="s74"><Data ss:Type="String">Valet</Data></Cell>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:Index="44" ss:StyleID="s74"><Data ss:Type="String">Under Construction</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">42.520124157160701</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">42.520124157160701</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">42.520124157160701</Data></Cell>
+    <Cell><Data ss:Type="Number">20.5</Data></Cell>
+    <Cell ss:Index="51" ss:StyleID="s71"><Data ss:Type="String">Golf Course</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Active</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Available</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">http://galaxy80-vm1:5555/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">selenium test1</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">selenium test1</Data></Cell>
+    <Cell><Data ss:Type="String">s - 27</Data></Cell>
+    <Cell><Data ss:Type="String">Warehouse</Data></Cell>
+    <Cell><Data ss:Type="String">Property-xRM</Data></Cell>
+    <Cell><Data ss:Type="String">Sq.ft</Data></Cell>
+    <Cell><Data ss:Type="String">Under Planning</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">18761</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">203</Data></Cell>
+    <Cell><Data ss:Type="String">128</Data></Cell>
+    <Cell><Data ss:Type="String">203</Data></Cell>
+    <Cell><Data ss:Type="String">2000</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell><Data ss:Type="String">United Arab Emirates</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Fully Owned</Data></Cell>
+    <Cell><Data ss:Type="String">511</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">SE-UNT 725</Data></Cell>
+    <Cell><Data ss:Type="String">Leasing</Data></Cell>
+    <Cell><Data ss:Type="String">Property-xRM</Data></Cell>
+    <Cell><Data ss:Type="String">Parking</Data></Cell>
+    <Cell><Data ss:Type="String">Parking</Data></Cell>
+    <Cell><Data ss:Type="String">Zero Rated</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">5</Data></Cell>
+    <Cell><Data ss:Type="String">Sq.Ft</Data></Cell>
+    <Cell><Data ss:Type="Number">2000</Data></Cell>
+    <Cell><Data ss:Type="String">Property-xRM_Residential Leasing</Data></Cell>
+    <Cell><Data ss:Type="Number">200000</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">16</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">502.16457812051999</Data></Cell>
+    <Cell><Data ss:Type="Number">2000</Data></Cell>
+    <Cell><Data ss:Type="Number">500</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Furnished</Data></Cell>
+    <Cell><Data ss:Type="String">No</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:Index="40" ss:StyleID="s74"><Data ss:Type="String">Valet</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:Index="44" ss:StyleID="s74"><Data ss:Type="String">Completed</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">46.6526610355466</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">46.6526610355466</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">46.6526610355466</Data></Cell>
+    <Cell><Data ss:Type="Number">20.5</Data></Cell>
+    <Cell ss:Index="51" ss:StyleID="s71"><Data ss:Type="String">Lake</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Active</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Available</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">http://galaxy80-vm1:5555/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">selenium test1</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">selenium test1</Data></Cell>
+    <Cell><Data ss:Type="String">s - 27</Data></Cell>
+    <Cell><Data ss:Type="String">Mix Use</Data></Cell>
+    <Cell><Data ss:Type="String">Property-xRM</Data></Cell>
+    <Cell><Data ss:Type="String">Sq.ft</Data></Cell>
+    <Cell><Data ss:Type="String">Under Planning</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">18762</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">203</Data></Cell>
+    <Cell><Data ss:Type="String">128</Data></Cell>
+    <Cell><Data ss:Type="String">203</Data></Cell>
+    <Cell><Data ss:Type="String">2000</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell><Data ss:Type="String">United Arab Emirates</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Fully Owned</Data></Cell>
+    <Cell><Data ss:Type="String">512</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">SE-UNT 726</Data></Cell>
+    <Cell><Data ss:Type="String">Leasing</Data></Cell>
+    <Cell><Data ss:Type="String">Property-xRM</Data></Cell>
+    <Cell><Data ss:Type="String">Parking</Data></Cell>
+    <Cell><Data ss:Type="String">Parking</Data></Cell>
+    <Cell><Data ss:Type="String">Zero Rated</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">5</Data></Cell>
+    <Cell><Data ss:Type="String">Sq.Ft</Data></Cell>
+    <Cell><Data ss:Type="Number">2000</Data></Cell>
+    <Cell><Data ss:Type="String">Property-xRM_Residential Leasing</Data></Cell>
+    <Cell><Data ss:Type="Number">200000</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">17</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">546.646791825778</Data></Cell>
+    <Cell><Data ss:Type="Number">2000</Data></Cell>
+    <Cell><Data ss:Type="Number">500</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Furnished</Data></Cell>
+    <Cell><Data ss:Type="String">No</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:Index="40" ss:StyleID="s74"><Data ss:Type="String">Valet</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:Index="44" ss:StyleID="s74"><Data ss:Type="String">Under Construction</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">50.7851979139325</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">50.7851979139325</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">50.7851979139325</Data></Cell>
+    <Cell><Data ss:Type="Number">20.5</Data></Cell>
+    <Cell ss:Index="51" ss:StyleID="s71"><Data ss:Type="String">Racing Track</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Active</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Available</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">http://galaxy80-vm1:5555/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">selenium test1</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">selenium test1</Data></Cell>
+    <Cell><Data ss:Type="String">s- 27</Data></Cell>
+    <Cell><Data ss:Type="String">Medical</Data></Cell>
+    <Cell><Data ss:Type="String">Property-xRM</Data></Cell>
+    <Cell><Data ss:Type="String">Sq.ft</Data></Cell>
+    <Cell><Data ss:Type="String">Under Planning</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">18763</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">203</Data></Cell>
+    <Cell><Data ss:Type="String">128</Data></Cell>
+    <Cell><Data ss:Type="String">203</Data></Cell>
+    <Cell><Data ss:Type="String">2000</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell><Data ss:Type="String">United Arab Emirates</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Fully Owned</Data></Cell>
+    <Cell><Data ss:Type="String">513</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">SE-UNT 727</Data></Cell>
+    <Cell><Data ss:Type="String">Leasing</Data></Cell>
+    <Cell><Data ss:Type="String">Property-xRM</Data></Cell>
+    <Cell><Data ss:Type="String">Parking</Data></Cell>
+    <Cell><Data ss:Type="String">Parking</Data></Cell>
+    <Cell><Data ss:Type="String">Zero Rated</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">5</Data></Cell>
+    <Cell><Data ss:Type="String">Sq.Ft</Data></Cell>
+    <Cell><Data ss:Type="Number">2000</Data></Cell>
+    <Cell><Data ss:Type="String">Property-xRM_Residential Leasing</Data></Cell>
+    <Cell><Data ss:Type="Number">200000</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">18</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">591.129005531036</Data></Cell>
+    <Cell><Data ss:Type="Number">2000</Data></Cell>
+    <Cell><Data ss:Type="Number">500</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Furnished</Data></Cell>
+    <Cell><Data ss:Type="String">No</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:Index="40" ss:StyleID="s74"><Data ss:Type="String">Valet</Data></Cell>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:Index="44" ss:StyleID="s74"><Data ss:Type="String">Under Construction</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">54.917734792318399</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">54.917734792318399</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">54.917734792318399</Data></Cell>
+    <Cell><Data ss:Type="Number">20.5</Data></Cell>
+    <Cell ss:Index="51" ss:StyleID="s71"><Data ss:Type="String">Golf Course</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Active</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Available</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">http://galaxy80-vm1:5555/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">selenium test1</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">selenium test1</Data></Cell>
+    <Cell><Data ss:Type="String">s - 27</Data></Cell>
+    <Cell><Data ss:Type="String">Warehouse</Data></Cell>
+    <Cell><Data ss:Type="String">Property-xRM</Data></Cell>
+    <Cell><Data ss:Type="String">Sq.ft</Data></Cell>
+    <Cell><Data ss:Type="String">Under Planning</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">18764</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">203</Data></Cell>
+    <Cell><Data ss:Type="String">128</Data></Cell>
+    <Cell><Data ss:Type="String">203</Data></Cell>
+    <Cell><Data ss:Type="String">2000</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell><Data ss:Type="String">United Arab Emirates</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Fully Owned</Data></Cell>
+    <Cell><Data ss:Type="String">514</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">SE-UNT 728</Data></Cell>
+    <Cell><Data ss:Type="String">Leasing</Data></Cell>
+    <Cell><Data ss:Type="String">Property-xRM</Data></Cell>
+    <Cell><Data ss:Type="String">Parking</Data></Cell>
+    <Cell><Data ss:Type="String">Parking</Data></Cell>
+    <Cell><Data ss:Type="String">Zero Rated</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">5</Data></Cell>
+    <Cell><Data ss:Type="String">Sq.Ft</Data></Cell>
+    <Cell><Data ss:Type="Number">2000</Data></Cell>
+    <Cell><Data ss:Type="String">Property-xRM_Residential Leasing</Data></Cell>
+    <Cell><Data ss:Type="Number">200000</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">19</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">635.61121923629298</Data></Cell>
+    <Cell><Data ss:Type="Number">2000</Data></Cell>
+    <Cell><Data ss:Type="Number">500</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Furnished</Data></Cell>
+    <Cell><Data ss:Type="String">No</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:Index="40" ss:StyleID="s74"><Data ss:Type="String">Valet</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:Index="44" ss:StyleID="s74"><Data ss:Type="String">Completed</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">59.050271670704298</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">59.050271670704298</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">59.050271670704298</Data></Cell>
+    <Cell><Data ss:Type="Number">20.5</Data></Cell>
+    <Cell ss:Index="51" ss:StyleID="s71"><Data ss:Type="String">Lake</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Active</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Available</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">http://galaxy80-vm1:5555/</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">selenium test1</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">selenium test1</Data></Cell>
+    <Cell><Data ss:Type="String">s - 27</Data></Cell>
+    <Cell><Data ss:Type="String">Mix Use</Data></Cell>
+    <Cell><Data ss:Type="String">Property-xRM</Data></Cell>
+    <Cell><Data ss:Type="String">Sq.ft</Data></Cell>
+    <Cell><Data ss:Type="String">Under Planning</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">18765</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="String">203</Data></Cell>
+    <Cell><Data ss:Type="String">128</Data></Cell>
+    <Cell><Data ss:Type="String">203</Data></Cell>
+    <Cell><Data ss:Type="String">2000</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell><Data ss:Type="String">United Arab Emirates</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">Fully Owned</Data></Cell>
+    <Cell><Data ss:Type="String">515</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">SE-UNT 729</Data></Cell>
+    <Cell><Data ss:Type="String">Leasing</Data></Cell>
+    <Cell><Data ss:Type="String">Property-xRM</Data></Cell>
+    <Cell><Data ss:Type="String">Parking</Data></Cell>
+    <Cell><Data ss:Type="String">Parking</Data></Cell>
+    <Cell><Data ss:Type="String">Zero Rated</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">5</Data></Cell>
+    <Cell><Data ss:Type="String">Sq.Ft</Data></Cell>
+    <Cell><Data ss:Type="Number">2000</Data></Cell>
+    <Cell><Data ss:Type="String">Property-xRM_Residential Leasing</Data></Cell>
+    <Cell><Data ss:Type="Number">200000</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">20</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">680.09343294155099</Data></Cell>
+    <Cell><Data ss:Type="Number">2000</Data></Cell>
+    <Cell><Data ss:Type="Number">500</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">Furnished</Data></Cell>
+    <Cell><Data ss:Type="String">No</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:Index="40" ss:StyleID="s74"><Data ss:Type="String">Valet</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:Index="44" ss:StyleID="s74"><Data ss:Type="String">Under Construction</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">63.182808549090097</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">63.182808549090097</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="Number">63.182808549090097</Data></Cell>
+    <Cell><Data ss:Type="Number">20.5</Data></Cell>
+    <Cell ss:Index="51" ss:StyleID="s71"><Data ss:Type="String">Racing Track</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Active</Data></Cell>
+    <Cell ss:StyleID="Default"><Data ss:Type="String">Available</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">http://galaxy80-vm1:5555/</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>300</HorizontalResolution>
+    <VerticalResolution>300</VerticalResolution>
+   </Print>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>14</ActiveRow>
+     <ActiveCol>5</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+  <DataValidation xmlns="urn:schemas-microsoft-com:office:excel">
+   <Range>R2C9:R1048576C9</Range>
+   <InputTitle>Lookup</InputTitle>
+   <InputMessage>This City (Property) (Properties) record must already exist in Microsoft Dynamics 365 or in this source file.</InputMessage>
+   <ErrorMessage> </ErrorMessage>
+  </DataValidation>
+  <DataValidation xmlns="urn:schemas-microsoft-com:office:excel">
+   <Range>R21C5:R1048576C5</Range>
+   <InputTitle>Lookup</InputTitle>
+   <InputMessage>This Legal Entity (Property) (Properties) record must already exist in Microsoft Dynamics 365 or in this source file.</InputMessage>
+   <ErrorMessage> </ErrorMessage>
+  </DataValidation>
+  <DataValidation xmlns="urn:schemas-microsoft-com:office:excel">
+   <Range>R2C28:R20C28</Range>
+   <Type>Decimal</Type>
+   <Min>0</Min>
+   <Max>922337203685477</Max>
+   <InputTitle>Decimal number</InputTitle>
+   <InputMessage>Minimum Value: 0.&#13;&#10;Maximum Value: 922337203685477.&#13;&#10;  </InputMessage>
+   <ErrorMessage>Rent Per Annum for Base Rent (Excluding Tax) must be a number from 0 through 922337203685477.</ErrorMessage>
+   <ErrorTitle>Value beyond range</ErrorTitle>
+  </DataValidation>
+  <DataValidation xmlns="urn:schemas-microsoft-com:office:excel">
+   <Range>R21C27:R1048576C27</Range>
+   <UseBlank/>
+   <InputTitle>Lookup (required)</InputTitle>
+   <InputMessage>This Country Belongs To record must already exist in Microsoft Dynamics 365 or in this source file.</InputMessage>
+   <ErrorMessage> </ErrorMessage>
+  </DataValidation>
+  <DataValidation xmlns="urn:schemas-microsoft-com:office:excel">
+   <Range>R2C49:R20C49</Range>
+   <Type>Decimal</Type>
+   <Min>0</Min>
+   <Max>1000000000</Max>
+   <InputTitle>Decimal number</InputTitle>
+   <InputMessage>Minimum Value: 0.&#13;&#10;Maximum Value: 1000000000.&#13;&#10;  </InputMessage>
+   <ErrorMessage>Rate Per Sq. Ft for Base Rent must be a number from 0 through 1000000000.</ErrorMessage>
+   <ErrorTitle>Value beyond range</ErrorTitle>
+  </DataValidation>
+  <DataValidation xmlns="urn:schemas-microsoft-com:office:excel">
+   <Range>R21C47:R1048576C47</Range>
+   <Type>Decimal</Type>
+   <Min>-922337203685477</Min>
+   <Max>922337203685477</Max>
+   <InputTitle>Decimal number</InputTitle>
+   <InputMessage>Minimum Value: -922337203685477.&#13;&#10;Maximum Value: 922337203685477.&#13;&#10;  </InputMessage>
+   <ErrorMessage>Cooling Charge Per Annum (Base) must be a number from -922337203685477 through 922337203685477.</ErrorMessage>
+   <ErrorTitle>Value beyond range</ErrorTitle>
+  </DataValidation>
+  <DataValidation xmlns="urn:schemas-microsoft-com:office:excel">
+   <Range>R21C46:R1048576C46</Range>
+   <Type>Decimal</Type>
+   <Min>-922337203685477</Min>
+   <Max>922337203685477</Max>
+   <InputTitle>Decimal number</InputTitle>
+   <InputMessage>Minimum Value: -922337203685477.&#13;&#10;Maximum Value: 922337203685477.&#13;&#10;  </InputMessage>
+   <ErrorMessage>Common Area charge per Annum (Base) must be a number from -922337203685477 through 922337203685477.</ErrorMessage>
+   <ErrorTitle>Value beyond range</ErrorTitle>
+  </DataValidation>
+  <DataValidation xmlns="urn:schemas-microsoft-com:office:excel">
+   <Range>R21C42:R1048576C42</Range>
+   <Type>Decimal</Type>
+   <Min>0</Min>
+   <Max>922337203685477</Max>
+   <InputTitle>Decimal number</InputTitle>
+   <InputMessage>Minimum Value: 0.&#13;&#10;Maximum Value: 922337203685477.&#13;&#10;  </InputMessage>
+   <ErrorMessage>Electricity Charges must be a number from 0 through 922337203685477.</ErrorMessage>
+   <ErrorTitle>Value beyond range</ErrorTitle>
+  </DataValidation>
+  <DataValidation xmlns="urn:schemas-microsoft-com:office:excel">
+   <Range>R2C43:R3C43,R5C43:R1048576C43</Range>
+   <Type>Decimal</Type>
+   <Min>0</Min>
+   <Max>922337203685477</Max>
+   <InputTitle>Decimal number</InputTitle>
+   <InputMessage>Minimum Value: 0.&#13;&#10;Maximum Value: 922337203685477.&#13;&#10;  </InputMessage>
+   <ErrorMessage>ERES Fees must be a number from 0 through 922337203685477.</ErrorMessage>
+   <ErrorTitle>Value beyond range</ErrorTitle>
+  </DataValidation>
+  <DataValidation xmlns="urn:schemas-microsoft-com:office:excel">
+   <Range>R21C48:R1048576C48</Range>
+   <Type>Decimal</Type>
+   <Min>0</Min>
+   <Max>100000000000</Max>
+   <InputTitle>Decimal number</InputTitle>
+   <InputMessage>Minimum Value: 0.&#13;&#10;Maximum Value: 100000000000.&#13;&#10;  </InputMessage>
+   <ErrorMessage>Leasable Area must be a number from 0 through 100000000000.</ErrorMessage>
+   <ErrorTitle>Value beyond range</ErrorTitle>
+  </DataValidation>
+  <DataValidation xmlns="urn:schemas-microsoft-com:office:excel">
+   <Range>R21C49:R1048576C49</Range>
+   <Type>Decimal</Type>
+   <Min>0</Min>
+   <Max>922337203685477</Max>
+   <InputTitle>Decimal number</InputTitle>
+   <InputMessage>Minimum Value: 0.&#13;&#10;Maximum Value: 922337203685477.&#13;&#10;  </InputMessage>
+   <ErrorMessage>Maintenance charge must be a number from 0 through 922337203685477.</ErrorMessage>
+   <ErrorTitle>Value beyond range</ErrorTitle>
+  </DataValidation>
+  <DataValidation xmlns="urn:schemas-microsoft-com:office:excel">
+   <Range>R1C6:R20C6</Range>
+   <Type>List</Type>
+   <CellRangeList/>
+   <Value>&quot;SQ.Mtr,Sq.ft&quot;</Value>
+   <InputTitle>Option set (required)</InputTitle>
+   <InputMessage>Select a value from the drop-down list.</InputMessage>
+   <ErrorMessage>UOM (Property) (Properties) must be selected from the drop-down list.</ErrorMessage>
+   <ErrorTitle>List Value</ErrorTitle>
+  </DataValidation>
+  <DataValidation xmlns="urn:schemas-microsoft-com:office:excel">
+   <Range>R1C7:R20C7</Range>
+   <Type>List</Type>
+   <CellRangeList/>
+   <Value>&quot;Under Planning,Under Construction,Construction Completed&quot;</Value>
+  </DataValidation>
+  <DataValidation xmlns="urn:schemas-microsoft-com:office:excel">
+   <Range>R1C16,R3C16:R1048576C16</Range>
+   <Type>List</Type>
+   <CellRangeList/>
+   <Value>&quot;Customer,Investor&quot;</Value>
+  </DataValidation>
+  <DataValidation xmlns="urn:schemas-microsoft-com:office:excel">
+   <Range>C51</Range>
+   <Type>List</Type>
+   <CellRangeList/>
+   <Value>&quot;Palm View,Garden View,Neighbour View,Road View,Partial Sea View,Pool,Lake,Sea,City,Waterfront,Golf Course,Racing Track&quot;</Value>
+  </DataValidation>
+  <DataValidation xmlns="urn:schemas-microsoft-com:office:excel">
+   <Range>C36</Range>
+   <Type>List</Type>
+   <CellRangeList/>
+   <Value>&quot;Furnished,Unfurnished,Semi-Furnished&quot;</Value>
+  </DataValidation>
+  <DataValidation xmlns="urn:schemas-microsoft-com:office:excel">
+   <Range>C19</Range>
+   <Type>List</Type>
+   <CellRangeList/>
+   <Value>&quot;Leasing,Leasing Additional Unit&quot;</Value>
+  </DataValidation>
+  <DataValidation xmlns="urn:schemas-microsoft-com:office:excel">
+   <Range>R2C21:R20C21,C22</Range>
+   <Type>List</Type>
+   <CellRangeList/>
+   <Value>&quot;Retail,Parking,Utility,Residential,Commercial&quot;</Value>
+  </DataValidation>
+  <DataValidation xmlns="urn:schemas-microsoft-com:office:excel">
+   <Range>C25</Range>
+   <Type>List</Type>
+   <CellRangeList/>
+   <Value>&quot;Sq.Mtr,Sq.Ft&quot;</Value>
+  </DataValidation>
+  <DataValidation xmlns="urn:schemas-microsoft-com:office:excel">
+   <Range>C44</Range>
+   <Type>List</Type>
+   <CellRangeList/>
+   <Value>&quot;Completed,Under Construction&quot;</Value>
+  </DataValidation>
+  <DataValidation xmlns="urn:schemas-microsoft-com:office:excel">
+   <Range>C53</Range>
+   <Type>List</Type>
+   <CellRangeList/>
+   <Value>&quot;Available,Reserved,Booked,Sold,Blocked,Under Offer,Leased,On Hold,Legal Hold,Inactive,Merged,Split,Unit Evaluation&quot;</Value>
+  </DataValidation>
+  <DataValidation xmlns="urn:schemas-microsoft-com:office:excel">
+   <Range>C37</Range>
+   <Type>List</Type>
+   <CellRangeList/>
+   <Value>&quot;Yes,No&quot;</Value>
+  </DataValidation>
+  <DataValidation xmlns="urn:schemas-microsoft-com:office:excel">
+   <Range>C40</Range>
+   <Type>List</Type>
+   <CellRangeList/>
+   <Value>&quot;Open Parking,Covered Parking,Basement,Valet&quot;</Value>
+  </DataValidation>
+  <DataValidation xmlns="urn:schemas-microsoft-com:office:excel">
+   <Range>R2C16</Range>
+   <Type>List</Type>
+   <CellRangeList/>
+   <Value>&quot;Customer,Investor,Fully Owned&quot;</Value>
+  </DataValidation>
+  <DataValidation xmlns="urn:schemas-microsoft-com:office:excel">
+   <Range>C14</Range>
+   <Type>List</Type>
+   <CellRangeList/>
+   <Value>&quot;Yes,No&quot;</Value>
+   <InputTitle>Option set</InputTitle>
+   <InputMessage>Select a value from the drop-down list.</InputMessage>
+   <ErrorMessage>Admin Fee Applicable (Property) (Properties) must be selected from the drop-down list.</ErrorMessage>
+   <ErrorTitle>List Value</ErrorTitle>
+  </DataValidation>
+  <DataValidation xmlns="urn:schemas-microsoft-com:office:excel">
+   <Range>C4</Range>
+   <Type>List</Type>
+   <CellRangeList/>
+   <Value>&quot;Residential,Commercial,Hotel Apartments,Offices,Villa,Mix Use,Warehouse,Medical,Serviced Hotel Apartments,Retail and Entertainment,Commerical&quot;</Value>
+  </DataValidation>
+  <DataValidation xmlns="urn:schemas-microsoft-com:office:excel">
+   <Range>C52</Range>
+   <Type>List</Type>
+   <CellRangeList/>
+   <Value>&quot;Active,Inactive&quot;</Value>
+  </DataValidation>
+  <AutoFilter x:Range="R1C1:R9C53"
+   xmlns="urn:schemas-microsoft-com:office:excel">
+  </AutoFilter>
+ </Worksheet>
+ <Worksheet ss:Name="hiddenSheet">
+  <Table ss:ExpandedColumnCount="39" ss:ExpandedRowCount="25" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">md_unit:EPJ7p+xFQifUNA/h/sxka7v6a5c1QivIKjci3t58t0IJyxdYqoSd4vuILt+qHmZ3wshyT0NqCmSy+3WzbxCcFw==:md_unitid=%28Do%20Not%20Modify%29%20Unit&amp;checksumLogicalName=%28Do%20Not%20Modify%29%20Row%20Checksum&amp;modifiedon=%28Do%20Not%20Modify%29%20Modified%20On&amp;md_name=Unit%20No.&amp;md_type=Type&amp;md_projectid=Project&amp;md_propertyid=Property&amp;md_floors=Floor&amp;md_totalareasqft=Total%20Area%20%28Sq.%20Ft.%29&amp;md_price=Unit%20Price&amp;md_countrybelongstoid=Country%20Belongs%20To&amp;statuscode=Status%20Reason&amp;createdon=Created%20On&amp;md_adminfee=Admin%20Fee&amp;md_adminfee_base=Admin%20Fee%20%28Base%29&amp;md_attributeflag=Attribute%20Flag&amp;md_availablefrom=Available%20From&amp;md_axkey=AX%20Key&amp;md_balconies=Balconies&amp;md_bankaccountid=BankAccount&amp;md_batchunithandoverid=Batch%20Unit%20Handover&amp;md_bathrooms=Bathrooms&amp;md_bedrooms=Bedrooms&amp;md_blockcategory=Block%20Category&amp;md_blocksubcategory=Block%20Sub%20Category&amp;md_blockedforuserid=Blocked%20By&amp;md_blockeduser=Blocked%20User&amp;md_builtuparea=Built%20Up%20Area&amp;md_builtupareasqft=Built%20Up%20Area%20%28Sq.%20Ft.%29&amp;md_builtupareasqmt=Built%20Up%20Area%20%28Sq.%20Mt.%29&amp;md_commonarea=Common%20Area&amp;md_commonareasqft=Common%20Area%20%28Sq.%20Ft.%29&amp;md_commonareasqmtr=Common%20Area%20%28Sq.%20Mt.%29&amp;md_coolingchargeperannum=Cooling%20Charge%20Per%20Annum&amp;md_coolingchargeperannum_base=Cooling%20Charge%20Per%20Annum%20%28Base%29&amp;md_costofparking=Cost%20of%20Parking&amp;md_costofparking_base=Cost%20of%20Parking%20%28Base%29&amp;md_belongstoid=Country%28Belongs%20To%29%20Unused&amp;createdby=Created%20By&amp;createdonbehalfby=Created%20By%20%28Delegate%29&amp;transactioncurrencyid=Currency&amp;md_currentvalues=Current%20Values&amp;md_defaultpaymentplanid=Default%20Payment%20Plan&amp;md_defectliabilityperiodmonths=Defect%20Liability%20Period%20%28Months%29&amp;md_developerid=Developer&amp;md_difference=Difference&amp;md_dldadminfees=DLD%20Admin%20Fees&amp;md_dldadminfees_base=DLD%20Admin%20Fees%20%28Base%29&amp;md_dldregistrationfee=DLD%20Registration%20Fee&amp;md_dldregistrationfee_base=DLD%20Registration%20Fee%20%28Base%29&amp;md_electricitycharges=Electricity%20Charges&amp;md_electricitycharges_base=Electricity%20Charges%20%28Base%29&amp;emailaddress=Email%20Address&amp;md_eresfees=ERES%20Fees&amp;md_eresfees_base=ERES%20Fees%20%28Base%29&amp;exchangerate=Exchange%20Rate&amp;md_externalarea=External%20Area&amp;md_externalareasqft=External%20Area%20%28Sq.%20Ft%29&amp;md_externalareasqmt=External%20Area%20%28Sq.Mt%29&amp;md_firstsupplycompleted=First%20Supply%20Completed&amp;md_firstsupplycompletedon=First%20Supply%20Completed%20On&amp;md_floorplan=Floor%20Plan&amp;md_freepaid=Free%2fPaid&amp;md_furnishingstatus=Furnishing%20Status&amp;md_furniturepriceperannumincludingtax=Furniture%20Price%20Per%20Annum%20%28Including%20TAX%29&amp;md_furniturepriceperannumincludingtax_base=Furniture%20Price%20Per%20Annum%20Including%20TAX%20%28Base%29&amp;md_furniturepriceperannumexcludingtax=Furniture%20Price%20Per%20Annum%28Excluding%20Tax%29&amp;md_furniturepriceperannumexcludingtax_base=Furniture%20Price%20Per%20Annum%28Excluding%20Tax%29%20%28Base%29&amp;md_furniturepricepermonthexcludingtax=Furniture%20Price%20Per%20Month%20%28Excluding%20Tax%29&amp;md_furniturepricepermonthexcludingtax_base=Furniture%20Price%20Per%20Month%20%28Excluding%20Tax%29%20%28Base%29&amp;md_furnitureprice_base=Furniture%20Price%20Per%20Month%20%28Including%20TAX%29%28Base%29&amp;md_furnitureprice=Furniture%20Price%20per%20Month%28Including%20Tax%29&amp;md_furnituretaxpercentage=Furniture%20Tax%20Percentage&amp;md_graceperiod=Grace%20Period&amp;md_handoverdate=Handover%20On&amp;md_accountid=Holding%20By%20%28Corporate%20Customer%29&amp;md_blockedforid=Holding%20By%20%28Individual%29&amp;md_productnumber=ID&amp;md_inspectioncompleted=Inspection%20Completed%20on&amp;md_integrationdescription=Integration%20Description&amp;md_integrationsuccessflag=Integration%20Success%20Flag&amp;md_integrationtriggervalue=Integration%20Trigger%20Value&amp;md_internalarea=Internal%20Area&amp;md_internalareasqft=Internal%20Area%20Sq%20Ft&amp;md_internalareasqmt=Internal%20Area%20Sq%20Mt&amp;md_inventoryprice_base=Inventory%20Price%20%28Base%29&amp;md_isfurniturepriceincludedinrent=Is%20Furniture%20Price%20Included%20in%20Rent&amp;md_ispriceinclusiveoftax=Is%20Price%20Inclusive%20of%20Tax&amp;md_landlordid=Landlord&amp;md_leasablearea=Leasable%20Area&amp;md_leasableareasqft=Leasable%20Area%20%28Sq.%20Ft.%29&amp;md_leasableareasqmt=Leasable%20Area%20%28Sq.%20Mt.%29&amp;md_legalentityid=Legal%20Entity&amp;md_price_base=List%20Price%20%28Base%29&amp;md_maidroom=Maid%20Room&amp;md_maintenancecharge=Maintenance%20charge&amp;md_maintenancecharge_base=Maintenance%20charge%20%28Base%29&amp;md_managedbyaccountid=Managed%20By%20%28Account%29&amp;md_managedbycontactid=Managed%20By%20%28Contact%29&amp;md_masterunitid=Master%20Unit&amp;md_mergeclicked=Merge%20Clicked&amp;md_mergeflag=Merge%20Flag&amp;md_mergedunitrecord=Merged%20Unit%20Record&amp;md_mergedunitsid=Merged%20Units%20ID&amp;md_mergedunits=MergedUnits&amp;modifiedby=Modified%20By&amp;modifiedonbehalfby=Modified%20By%20%28Delegate%29&amp;modifiedon=Modified%20On&amp;md_multientityquickfindforunit=Multi%20Entity%20Quick%20Find%20For%20Unit&amp;md_inventoryprice=New%20Inventory%20Price&amp;md_newvalues=New%20Values&amp;md_numberofparking=Number%20of%20Parking&amp;md_numberofunitstosplit=Number%20of%20Units%20to%20Split&amp;md_officefee=Office%20Fee&amp;md_officefee_base=Office%20Fee%20%28Base%29&amp;md_onholddate=On%20Hold%20Date&amp;md_opportunityholdingunit=Opportunity%20Holding%20Unit&amp;ownerid=Owner&amp;md_parentunit_id=Parent%20Unit&amp;md_parkingarea=Parking%20Area&amp;md_parkingareasqft=Parking%20Area%20%28Sq.%20Ft.%29&amp;md_parkingareasqmtr=Parking%20Area%20Sq.Mtr&amp;md_parkingbaynumber=Parking%20Bay%20Number&amp;md_parkingtype=Parking%20Type&amp;md_paymenttemplateforproposalid=Payment%20Template%20For%20Proposal&amp;md_priceevaluatedon=Price%20Evaluated%20On&amp;md_pricesqft=Price%20Per%20Sq.%20Ft.&amp;md_pricesqft_base=Price%20Per%20Sq.%20Ft.%20%28Base%29&amp;md_pricesqmtr=Price%20Per%20Sq.%20Mt.&amp;md_pricesqmtr_base=Price%20Per%20Sq.%20Mt.%20%28Base%29&amp;md_priceperuom=Price%20Per%20UOM&amp;md_priceperuom_base=Price%20Per%20UOM%20%28Base%29&amp;processid=Process%20Id&amp;md_propertyattributeupdateid=Property%20Attribute%20Update%20Id&amp;md_proposedsellingprice=Proposed%20Selling%20Price&amp;md_proposedsellingprice_base=Proposed%20Selling%20Price%20%28Base%29&amp;overriddencreatedon=Record%20Created%20On&amp;md_relatedcontractid=Related%20Contract&amp;md_relatedofferid=Related%20Offer&amp;md_relatedunitsaleid=Related%20Unit%20Sale&amp;md_rentincludingtax_base=Rent%20Including%20TAX%28Base%29&amp;md_rentperannum_base=Rent%20Per%20Annum%20%28Base%29&amp;md_rentperannumexcludingtax=Rent%20Per%20Annum%20Excluding%20TAX&amp;md_rentperannumexcludingtax_base=Rent%20Per%20Annum%20Excluding%20TAX%20%28Base%29&amp;md_rentperannumincludingtax=Rent%20Per%20Annum%20Including%20Tax&amp;md_rentperannumincludingtax_base=Rent%20Per%20Annum%20Including%20Tax%20%28Base%29&amp;md_rentperday_base=Rent%20Per%20Day%20%28Base%29&amp;md_rent_base=Rent%20per%20Month%20%28Base%29&amp;md_rentpermonthexcludingtax=Rent%20Per%20Month%20Excluding%20TAX&amp;md_rentpermonthexcludingtax_base=Rent%20Per%20Month%20Excluding%20TAX%20%28Base%29&amp;md_rentincludingtax=Rent%20per%20Month%20Including%20TAX&amp;md_rentsqft=Rent%20Per%20Sq.%20Ft.&amp;md_rentsqft_base=Rent%20Per%20Sq.%20Ft.%20%28Base%29&amp;md_rentsqmt=Rent%20Per%20Sq.%20Mt.&amp;md_rentsqmt_base=Rent%20Per%20Sq.%20Mt.%20%28Base%29&amp;md_rentvalidfrom=Rent%20Valid%20From&amp;md_rentvalidto=Rent%20Valid%20To&amp;md_saleablearea=Saleable%20Area&amp;md_saleableareasqft=Saleable%20Area%20%28Sq.%20Ft%29&amp;md_saleableareasqmt=Saleable%20Area%20%28Sq.%20Mt.%29&amp;md_securitydeposit=Security%20Deposit&amp;md_securitydeposit_base=Security%20Deposit%20%28Base%29&amp;md_servicechargeperannum=Service%20Charge%20Per%20Annum&amp;md_servicechargeperannum_base=Service%20Charge%20Per%20Annum%20%28Base%29&amp;md_skipinternalinspection=Skip%20Internal%20Inspection&amp;md_splitedunitcount=Splited%20Unit%20Count&amp;stageid=Stage%20Id&amp;statecode=Status&amp;md_storeroom=Store%20Room&amp;md_studyroom=Study%20Room&amp;md_subcontractid=Sub%20Contract&amp;md_taxcodeid=Tax%20Code&amp;md_taxpercentagee=Tax%20Percentage&amp;md_taxcode=Tax%20Process&amp;md_taxvalue=Tax%20Value&amp;md_taxvalue_base=Tax%20Value%20%28Base%29&amp;md_titledeeddate=Title%20Deed%20Date&amp;md_totalarea=Total%20Area&amp;md_totalareasqmt=Total%20Area%20%28Sq.%20Mt.%29&amp;md_totalnoofparking=Total%20No.%20of%20Parking&amp;md_rentperannum=Total%20Rent%20Per%20Annum&amp;md_rentperday=Total%20Rent%20Per%20Day&amp;md_rent=Total%20Rent%20per%20Month&amp;traversedpath=Traversed%20Path&amp;md_triggerflag=Trigger%20Flag&amp;md_unitblockcomments=Unit%20Block%20Comments&amp;md_unitfloorcharge=Unit%20Floor%20Charge&amp;md_unitfloorcharge_base=Unit%20Floor%20Charge%20%28Base%29&amp;md_transactiontype=Unit%20For&amp;md_unitmerged=Unit%20Merged&amp;md_unitpriceexcludingtax=Unit%20Price%20Excluding%20Tax&amp;md_unitpriceexcludingtax_base=Unit%20Price%20Excluding%20Tax%20%28Base%29&amp;md_unitpriceincludingtax=Unit%20Price%20Including%20Tax&amp;md_unitpriceincludingtax_base=Unit%20Price%20Including%20Tax%20%28Base%29&amp;md_uom=UOM&amp;md_usepermit=Use%20Permit&amp;md_utilitychargeperannum=Utility%20Charge%20Per%20%20Annum&amp;md_utilitychargeperannum_base=Utility%20Charge%20Per%20%20Annum%20%28Base%29&amp;md_dewano=Utility%20No.&amp;md_views=View</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Shop</Data></Cell>
+    <Cell><Data ss:Type="String">Apartment</Data></Cell>
+    <Cell><Data ss:Type="String">Studio</Data></Cell>
+    <Cell><Data ss:Type="String">Villa</Data></Cell>
+    <Cell><Data ss:Type="String">Duplex</Data></Cell>
+    <Cell><Data ss:Type="String">Triplex</Data></Cell>
+    <Cell><Data ss:Type="String">Office</Data></Cell>
+    <Cell><Data ss:Type="String">Retail</Data></Cell>
+    <Cell><Data ss:Type="String">Parking</Data></Cell>
+    <Cell><Data ss:Type="String">Clinic</Data></Cell>
+    <Cell><Data ss:Type="String">Other</Data></Cell>
+    <Cell><Data ss:Type="String">ATM Machine</Data></Cell>
+    <Cell><Data ss:Type="String">Arabic House</Data></Cell>
+    <Cell><Data ss:Type="String">Roof</Data></Cell>
+    <Cell><Data ss:Type="String">Industrial Land</Data></Cell>
+    <Cell><Data ss:Type="String">Car Wash</Data></Cell>
+    <Cell><Data ss:Type="String">Building</Data></Cell>
+    <Cell><Data ss:Type="String">Shed</Data></Cell>
+    <Cell><Data ss:Type="String">Kiosk</Data></Cell>
+    <Cell><Data ss:Type="String">Showroom</Data></Cell>
+    <Cell><Data ss:Type="String">Workshop/Factory</Data></Cell>
+    <Cell><Data ss:Type="String">Store</Data></Cell>
+    <Cell><Data ss:Type="String">Mezzanine</Data></Cell>
+    <Cell><Data ss:Type="String">Cinema</Data></Cell>
+    <Cell><Data ss:Type="String">Food Court</Data></Cell>
+    <Cell><Data ss:Type="String">Play Station</Data></Cell>
+    <Cell><Data ss:Type="String">Advertisement/Billboard</Data></Cell>
+    <Cell><Data ss:Type="String">Building Roof (Communication/Transmitting Devices)</Data></Cell>
+    <Cell><Data ss:Type="String">Gym (Females+Males)</Data></Cell>
+    <Cell><Data ss:Type="String">Events Hall</Data></Cell>
+    <Cell><Data ss:Type="String">Machines (Games + Sweets + Coffee)</Data></Cell>
+    <Cell><Data ss:Type="String">School</Data></Cell>
+    <Cell><Data ss:Type="String">University</Data></Cell>
+    <Cell><Data ss:Type="String">Mall</Data></Cell>
+    <Cell><Data ss:Type="String">Hospital</Data></Cell>
+    <Cell><Data ss:Type="String">Worker's Housing/ Accommodation</Data></Cell>
+    <Cell><Data ss:Type="String">Nursery</Data></Cell>
+    <Cell><Data ss:Type="String">Land</Data></Cell>
+    <Cell><Data ss:Type="String">Penthouse</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Available</Data></Cell>
+    <Cell><Data ss:Type="String">Reserved</Data></Cell>
+    <Cell><Data ss:Type="String">Booked</Data></Cell>
+    <Cell><Data ss:Type="String">Sold</Data></Cell>
+    <Cell><Data ss:Type="String">Price Evaluation</Data></Cell>
+    <Cell><Data ss:Type="String">Legal Hold</Data></Cell>
+    <Cell><Data ss:Type="String">On Hold</Data></Cell>
+    <Cell><Data ss:Type="String">Leased</Data></Cell>
+    <Cell><Data ss:Type="String">Unit Evaluation</Data></Cell>
+    <Cell><Data ss:Type="String">Blocked</Data></Cell>
+    <Cell><Data ss:Type="String">Split</Data></Cell>
+    <Cell><Data ss:Type="String">Merged</Data></Cell>
+    <Cell><Data ss:Type="String">Inactive</Data></Cell>
+    <Cell><Data ss:Type="String">Blocked</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Sales</Data></Cell>
+    <Cell><Data ss:Type="String">Corporate</Data></Cell>
+    <Cell><Data ss:Type="String">Development</Data></Cell>
+    <Cell><Data ss:Type="String">Others</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Blocked by CEO</Data></Cell>
+    <Cell><Data ss:Type="String">Blocked for International Agents</Data></Cell>
+    <Cell><Data ss:Type="String">Blocked for Sales Strategy</Data></Cell>
+    <Cell><Data ss:Type="String">Blocked for Sec Check</Data></Cell>
+    <Cell><Data ss:Type="String">Design Issue</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+    <Cell><Data ss:Type="String">No</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Free</Data></Cell>
+    <Cell><Data ss:Type="String">Paid</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Furnished</Data></Cell>
+    <Cell><Data ss:Type="String">Unfurnished</Data></Cell>
+    <Cell><Data ss:Type="String">Semi Furnished</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Success</Data></Cell>
+    <Cell><Data ss:Type="String">Failure</Data></Cell>
+    <Cell><Data ss:Type="String">Null</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">No</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">No</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">No</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">No</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">No</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Open Parking</Data></Cell>
+    <Cell><Data ss:Type="String">Covered Parking</Data></Cell>
+    <Cell><Data ss:Type="String">Basement</Data></Cell>
+    <Cell><Data ss:Type="String">Valet</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">No</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Active</Data></Cell>
+    <Cell><Data ss:Type="String">Inactive</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">No</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">No</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">No</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Sales</Data></Cell>
+    <Cell><Data ss:Type="String">Leasing</Data></Cell>
+    <Cell><Data ss:Type="String">Retail Leasing</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">No</Data></Cell>
+    <Cell><Data ss:Type="String">Yes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Sq.Mtr</Data></Cell>
+    <Cell><Data ss:Type="String">Sq.ft</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Residential</Data></Cell>
+    <Cell><Data ss:Type="String">Commercial</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Palm View</Data></Cell>
+    <Cell><Data ss:Type="String">Garden View</Data></Cell>
+    <Cell><Data ss:Type="String">Neighbor View</Data></Cell>
+    <Cell><Data ss:Type="String">Road View</Data></Cell>
+    <Cell><Data ss:Type="String">Partial Sea View</Data></Cell>
+    <Cell><Data ss:Type="String">Pool</Data></Cell>
+    <Cell><Data ss:Type="String">Lake</Data></Cell>
+    <Cell><Data ss:Type="String">Sea</Data></Cell>
+    <Cell><Data ss:Type="String">City</Data></Cell>
+    <Cell><Data ss:Type="String">Waterfront</Data></Cell>
+    <Cell><Data ss:Type="String">Golf Course</Data></Cell>
+    <Cell><Data ss:Type="String">Racing Track</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <Visible>SheetVeryHidden</Visible>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

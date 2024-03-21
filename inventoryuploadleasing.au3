@@ -1,0 +1,8 @@
+Sleep(1000)
+ControlFocus("Open","","Edit1")
+Sleep(1000)
+ControlSetText("Open","","Edit1","F:\Gokul\TFS\QA - Development\LeasingPropertyXrm23\TestExcel.xml")
+Sleep(1000)
+ControlFocus("Open", "", "Button1")
+ControlClick("Open","","Button1")
+Sleep(1000)
